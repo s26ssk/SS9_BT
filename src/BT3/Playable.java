@@ -1,2 +1,5 @@
-package BT3;public interface Playable {
+package BT3;
+
+public interface Playable {
+    void play();
 }
